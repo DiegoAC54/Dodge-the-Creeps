@@ -4,6 +4,8 @@ This game follows "Your first 2D game" tutorial:
 
 https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
 
+Game consists in aliens fighting enemy opponents (enemy aliens)
+
 startTimer - provides delay/pause prior to beginning
 startPos - indicates player start position
 scoreTimer - records score
